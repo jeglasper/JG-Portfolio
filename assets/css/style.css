@@ -23,6 +23,11 @@ h1 {
     font-size: 40px;
 }
 
+h1:hover, 
+nav ul li:hover, 
+section ul li:hover {
+    text-shadow: 0px 0px 5px rgb(242, 245, 43);
+}
 #headshot {
     height: 75px;
     width: 120px;
